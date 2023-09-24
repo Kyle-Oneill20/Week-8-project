@@ -1,0 +1,66 @@
+*{border: 2px black}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background:azure;
+}
+
+body{margin: 2rem}
+
+h1{
+    text-align: center;
+    text-decoration: double;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    margin: 3rem auto 2rem auto;
+}
+p{
+    text-align: center;
+}
+table{
+   width: 100%;
+   margin: 2rem 2rem;
+}
+table,tr,th,td{
+    border: 2px solid black;
+    text-align: center;
+
+}
+img{
+    display: block;
+    margin: auto
+
+}
+h3{
+    text-align: center;
+    border: 1px dotted black;
+}
+li{
+    margin: 3rem;
+    font-size: larger;
+}
+p{
+    text-align: center;
+    font-size: medium;
+}
+footer{
+    text-align: center;
+    border-top: 3px double black;
+    margin-top: 5rem;
+}
+form{
+    text-align: center;
+    margin-top: 3rem;
+}
+input{
+    background-color: aliceblue;
+    border:3px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 4rem
+}
+
